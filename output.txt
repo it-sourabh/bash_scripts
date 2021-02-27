@@ -1,0 +1,459 @@
+# Nmap 7.70 scan initiated Sat Feb 20 15:31:08 2021 as: nmap -Pn -vv -p3389 -oN output.txt -sS 172.16.0.0/24
+adjust_timeouts2: packet supposedly had rtt of -84832 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of -68011 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of -121678 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of -122127 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of -53594 microseconds.  Ignoring time.
+Nmap scan report for 172.16.0.0 [host down, received no-response]
+Nmap scan report for 172.16.0.2 [host down, received no-response]
+Nmap scan report for 172.16.0.3 [host down, received no-response]
+Nmap scan report for 172.16.0.5 [host down, received no-response]
+Nmap scan report for 172.16.0.7 [host down, received no-response]
+Nmap scan report for 172.16.0.8 [host down, received no-response]
+Nmap scan report for 172.16.0.9 [host down, received no-response]
+Nmap scan report for 172.16.0.11 [host down, received no-response]
+Nmap scan report for 172.16.0.12 [host down, received no-response]
+Nmap scan report for 172.16.0.13 [host down, received no-response]
+Nmap scan report for 172.16.0.14 [host down, received no-response]
+Nmap scan report for 172.16.0.15 [host down, received no-response]
+Nmap scan report for 172.16.0.16 [host down, received no-response]
+Nmap scan report for 172.16.0.17 [host down, received no-response]
+Nmap scan report for 172.16.0.18 [host down, received no-response]
+Nmap scan report for 172.16.0.19 [host down, received no-response]
+Nmap scan report for 172.16.0.20 [host down, received no-response]
+Nmap scan report for 172.16.0.21 [host down, received no-response]
+Nmap scan report for 172.16.0.24 [host down, received no-response]
+Nmap scan report for 172.16.0.25 [host down, received no-response]
+Nmap scan report for 172.16.0.26 [host down, received no-response]
+Nmap scan report for 172.16.0.27 [host down, received no-response]
+Nmap scan report for 172.16.0.28 [host down, received no-response]
+Nmap scan report for 172.16.0.29 [host down, received no-response]
+Nmap scan report for 172.16.0.30 [host down, received no-response]
+Nmap scan report for 172.16.0.31 [host down, received no-response]
+Nmap scan report for 172.16.0.32 [host down, received no-response]
+Nmap scan report for 172.16.0.33 [host down, received no-response]
+Nmap scan report for 172.16.0.34 [host down, received no-response]
+Nmap scan report for 172.16.0.35 [host down, received no-response]
+Nmap scan report for 172.16.0.36 [host down, received no-response]
+Nmap scan report for 172.16.0.37 [host down, received no-response]
+Nmap scan report for 172.16.0.38 [host down, received no-response]
+Nmap scan report for 172.16.0.39 [host down, received no-response]
+Nmap scan report for 172.16.0.40 [host down, received no-response]
+Nmap scan report for 172.16.0.41 [host down, received no-response]
+Nmap scan report for 172.16.0.42 [host down, received no-response]
+Nmap scan report for 172.16.0.43 [host down, received no-response]
+Nmap scan report for 172.16.0.44 [host down, received no-response]
+Nmap scan report for 172.16.0.45 [host down, received no-response]
+Nmap scan report for 172.16.0.46 [host down, received no-response]
+Nmap scan report for 172.16.0.47 [host down, received no-response]
+Nmap scan report for 172.16.0.48 [host down, received no-response]
+Nmap scan report for 172.16.0.49 [host down, received no-response]
+Nmap scan report for 172.16.0.51 [host down, received no-response]
+Nmap scan report for 172.16.0.52 [host down, received no-response]
+Nmap scan report for 172.16.0.53 [host down, received no-response]
+Nmap scan report for 172.16.0.54 [host down, received no-response]
+Nmap scan report for 172.16.0.55 [host down, received no-response]
+Nmap scan report for 172.16.0.56 [host down, received no-response]
+Nmap scan report for 172.16.0.57 [host down, received no-response]
+Nmap scan report for 172.16.0.58 [host down, received no-response]
+Nmap scan report for 172.16.0.59 [host down, received no-response]
+Nmap scan report for 172.16.0.60 [host down, received no-response]
+Nmap scan report for 172.16.0.61 [host down, received no-response]
+Nmap scan report for 172.16.0.62 [host down, received no-response]
+Nmap scan report for 172.16.0.63 [host down, received no-response]
+Nmap scan report for 172.16.0.64 [host down, received no-response]
+Nmap scan report for 172.16.0.65 [host down, received no-response]
+Nmap scan report for 172.16.0.66 [host down, received no-response]
+Nmap scan report for 172.16.0.67 [host down, received no-response]
+Nmap scan report for 172.16.0.68 [host down, received no-response]
+Nmap scan report for 172.16.0.69 [host down, received no-response]
+Nmap scan report for 172.16.0.70 [host down, received no-response]
+Nmap scan report for 172.16.0.72 [host down, received no-response]
+Nmap scan report for 172.16.0.73 [host down, received no-response]
+Nmap scan report for 172.16.0.74 [host down, received no-response]
+Nmap scan report for 172.16.0.75 [host down, received no-response]
+Nmap scan report for 172.16.0.76 [host down, received no-response]
+Nmap scan report for 172.16.0.77 [host down, received no-response]
+Nmap scan report for 172.16.0.78 [host down, received no-response]
+Nmap scan report for 172.16.0.79 [host down, received no-response]
+Nmap scan report for 172.16.0.80 [host down, received no-response]
+Nmap scan report for 172.16.0.81 [host down, received no-response]
+Nmap scan report for 172.16.0.82 [host down, received no-response]
+Nmap scan report for 172.16.0.83 [host down, received no-response]
+Nmap scan report for 172.16.0.84 [host down, received no-response]
+Nmap scan report for 172.16.0.85 [host down, received no-response]
+Nmap scan report for 172.16.0.86 [host down, received no-response]
+Nmap scan report for 172.16.0.87 [host down, received no-response]
+Nmap scan report for 172.16.0.88 [host down, received no-response]
+Nmap scan report for 172.16.0.89 [host down, received no-response]
+Nmap scan report for 172.16.0.90 [host down, received no-response]
+Nmap scan report for 172.16.0.91 [host down, received no-response]
+Nmap scan report for 172.16.0.92 [host down, received no-response]
+Nmap scan report for 172.16.0.93 [host down, received no-response]
+Nmap scan report for 172.16.0.94 [host down, received no-response]
+Nmap scan report for 172.16.0.95 [host down, received no-response]
+Nmap scan report for 172.16.0.96 [host down, received no-response]
+Nmap scan report for 172.16.0.97 [host down, received no-response]
+Nmap scan report for 172.16.0.98 [host down, received no-response]
+Nmap scan report for 172.16.0.99 [host down, received no-response]
+Nmap scan report for 172.16.0.106 [host down, received no-response]
+Nmap scan report for 172.16.0.109 [host down, received no-response]
+Nmap scan report for 172.16.0.111 [host down, received no-response]
+Nmap scan report for 172.16.0.112 [host down, received no-response]
+Nmap scan report for 172.16.0.114 [host down, received no-response]
+Nmap scan report for 172.16.0.116 [host down, received no-response]
+Nmap scan report for 172.16.0.118 [host down, received no-response]
+Nmap scan report for 172.16.0.119 [host down, received no-response]
+Nmap scan report for 172.16.0.120 [host down, received no-response]
+Nmap scan report for 172.16.0.121 [host down, received no-response]
+Nmap scan report for 172.16.0.122 [host down, received no-response]
+Nmap scan report for 172.16.0.123 [host down, received no-response]
+Nmap scan report for 172.16.0.124 [host down, received no-response]
+Nmap scan report for 172.16.0.125 [host down, received no-response]
+Nmap scan report for 172.16.0.126 [host down, received no-response]
+Nmap scan report for 172.16.0.127 [host down, received no-response]
+Nmap scan report for 172.16.0.128 [host down, received no-response]
+Nmap scan report for 172.16.0.129 [host down, received no-response]
+Nmap scan report for 172.16.0.130 [host down, received no-response]
+Nmap scan report for 172.16.0.131 [host down, received no-response]
+Nmap scan report for 172.16.0.132 [host down, received no-response]
+Nmap scan report for 172.16.0.133 [host down, received no-response]
+Nmap scan report for 172.16.0.135 [host down, received no-response]
+Nmap scan report for 172.16.0.136 [host down, received no-response]
+Nmap scan report for 172.16.0.137 [host down, received no-response]
+Nmap scan report for 172.16.0.138 [host down, received no-response]
+Nmap scan report for 172.16.0.140 [host down, received no-response]
+Nmap scan report for 172.16.0.141 [host down, received no-response]
+Nmap scan report for 172.16.0.142 [host down, received no-response]
+Nmap scan report for 172.16.0.143 [host down, received no-response]
+Nmap scan report for 172.16.0.144 [host down, received no-response]
+Nmap scan report for 172.16.0.145 [host down, received no-response]
+Nmap scan report for 172.16.0.146 [host down, received no-response]
+Nmap scan report for 172.16.0.147 [host down, received no-response]
+Nmap scan report for 172.16.0.148 [host down, received no-response]
+Nmap scan report for 172.16.0.149 [host down, received no-response]
+Nmap scan report for 172.16.0.150 [host down, received no-response]
+Nmap scan report for 172.16.0.151 [host down, received no-response]
+Nmap scan report for 172.16.0.152 [host down, received no-response]
+Nmap scan report for 172.16.0.153 [host down, received no-response]
+Nmap scan report for 172.16.0.154 [host down, received no-response]
+Nmap scan report for 172.16.0.156 [host down, received no-response]
+Nmap scan report for 172.16.0.157 [host down, received no-response]
+Nmap scan report for 172.16.0.158 [host down, received no-response]
+Nmap scan report for 172.16.0.159 [host down, received no-response]
+Nmap scan report for 172.16.0.160 [host down, received no-response]
+Nmap scan report for 172.16.0.161 [host down, received no-response]
+Nmap scan report for 172.16.0.162 [host down, received no-response]
+Nmap scan report for 172.16.0.163 [host down, received no-response]
+Nmap scan report for 172.16.0.164 [host down, received no-response]
+Nmap scan report for 172.16.0.165 [host down, received no-response]
+Nmap scan report for 172.16.0.166 [host down, received no-response]
+Nmap scan report for 172.16.0.167 [host down, received no-response]
+Nmap scan report for 172.16.0.168 [host down, received no-response]
+Nmap scan report for 172.16.0.169 [host down, received no-response]
+Nmap scan report for 172.16.0.170 [host down, received no-response]
+Nmap scan report for 172.16.0.171 [host down, received no-response]
+Nmap scan report for 172.16.0.172 [host down, received no-response]
+Nmap scan report for 172.16.0.173 [host down, received no-response]
+Nmap scan report for 172.16.0.174 [host down, received no-response]
+Nmap scan report for 172.16.0.175 [host down, received no-response]
+Nmap scan report for 172.16.0.176 [host down, received no-response]
+Nmap scan report for 172.16.0.177 [host down, received no-response]
+Nmap scan report for 172.16.0.178 [host down, received no-response]
+Nmap scan report for 172.16.0.179 [host down, received no-response]
+Nmap scan report for 172.16.0.181 [host down, received no-response]
+Nmap scan report for 172.16.0.182 [host down, received no-response]
+Nmap scan report for 172.16.0.183 [host down, received no-response]
+Nmap scan report for 172.16.0.184 [host down, received no-response]
+Nmap scan report for 172.16.0.185 [host down, received no-response]
+Nmap scan report for 172.16.0.186 [host down, received no-response]
+Nmap scan report for 172.16.0.187 [host down, received no-response]
+Nmap scan report for 172.16.0.188 [host down, received no-response]
+Nmap scan report for 172.16.0.189 [host down, received no-response]
+Nmap scan report for 172.16.0.190 [host down, received no-response]
+Nmap scan report for 172.16.0.191 [host down, received no-response]
+Nmap scan report for 172.16.0.192 [host down, received no-response]
+Nmap scan report for 172.16.0.193 [host down, received no-response]
+Nmap scan report for 172.16.0.195 [host down, received no-response]
+Nmap scan report for 172.16.0.196 [host down, received no-response]
+Nmap scan report for 172.16.0.197 [host down, received no-response]
+Nmap scan report for 172.16.0.198 [host down, received no-response]
+Nmap scan report for 172.16.0.199 [host down, received no-response]
+Nmap scan report for 172.16.0.200 [host down, received no-response]
+Nmap scan report for 172.16.0.201 [host down, received no-response]
+Nmap scan report for 172.16.0.202 [host down, received no-response]
+Nmap scan report for 172.16.0.203 [host down, received no-response]
+Nmap scan report for 172.16.0.204 [host down, received no-response]
+Nmap scan report for 172.16.0.205 [host down, received no-response]
+Nmap scan report for 172.16.0.206 [host down, received no-response]
+Nmap scan report for 172.16.0.207 [host down, received no-response]
+Nmap scan report for 172.16.0.208 [host down, received no-response]
+Nmap scan report for 172.16.0.209 [host down, received no-response]
+Nmap scan report for 172.16.0.210 [host down, received no-response]
+Nmap scan report for 172.16.0.211 [host down, received no-response]
+Nmap scan report for 172.16.0.212 [host down, received no-response]
+Nmap scan report for 172.16.0.213 [host down, received no-response]
+Nmap scan report for 172.16.0.214 [host down, received no-response]
+Nmap scan report for 172.16.0.215 [host down, received no-response]
+Nmap scan report for 172.16.0.216 [host down, received no-response]
+Nmap scan report for 172.16.0.217 [host down, received no-response]
+Nmap scan report for 172.16.0.218 [host down, received no-response]
+Nmap scan report for 172.16.0.219 [host down, received no-response]
+Nmap scan report for 172.16.0.220 [host down, received no-response]
+Nmap scan report for 172.16.0.221 [host down, received no-response]
+Nmap scan report for 172.16.0.222 [host down, received no-response]
+Nmap scan report for 172.16.0.223 [host down, received no-response]
+Nmap scan report for 172.16.0.224 [host down, received no-response]
+Nmap scan report for 172.16.0.225 [host down, received no-response]
+Nmap scan report for 172.16.0.226 [host down, received no-response]
+Nmap scan report for 172.16.0.227 [host down, received no-response]
+Nmap scan report for 172.16.0.228 [host down, received no-response]
+Nmap scan report for 172.16.0.229 [host down, received no-response]
+Nmap scan report for 172.16.0.230 [host down, received no-response]
+Nmap scan report for 172.16.0.231 [host down, received no-response]
+Nmap scan report for 172.16.0.232 [host down, received no-response]
+Nmap scan report for 172.16.0.233 [host down, received no-response]
+Nmap scan report for 172.16.0.234 [host down, received no-response]
+Nmap scan report for 172.16.0.235 [host down, received no-response]
+Nmap scan report for 172.16.0.236 [host down, received no-response]
+Nmap scan report for 172.16.0.237 [host down, received no-response]
+Nmap scan report for 172.16.0.238 [host down, received no-response]
+Nmap scan report for 172.16.0.239 [host down, received no-response]
+Nmap scan report for 172.16.0.240 [host down, received no-response]
+Nmap scan report for 172.16.0.241 [host down, received no-response]
+Nmap scan report for 172.16.0.242 [host down, received no-response]
+Nmap scan report for 172.16.0.243 [host down, received no-response]
+Nmap scan report for 172.16.0.244 [host down, received no-response]
+Nmap scan report for 172.16.0.245 [host down, received no-response]
+Nmap scan report for 172.16.0.246 [host down, received no-response]
+Nmap scan report for 172.16.0.247 [host down, received no-response]
+Nmap scan report for 172.16.0.248 [host down, received no-response]
+Nmap scan report for 172.16.0.249 [host down, received no-response]
+Nmap scan report for 172.16.0.251 [host down, received no-response]
+Nmap scan report for 172.16.0.252 [host down, received no-response]
+Nmap scan report for 172.16.0.255 [host down, received no-response]
+Nmap scan report for 172.16.0.1
+Host is up, received arp-response (0.0033s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE    SERVICE       REASON
+3389/tcp filtered ms-wbt-server no-response
+MAC Address: 7C:5A:1C:6A:F4:E0 (Sophos)
+
+Nmap scan report for 172.16.0.4
+Host is up, received arp-response (0.0041s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE    SERVICE       REASON
+3389/tcp filtered ms-wbt-server no-response
+MAC Address: 00:1B:09:03:44:2A (Matrix Telecom Pvt.)
+
+Nmap scan report for 172.16.0.6
+Host is up, received arp-response (0.0049s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: A4:14:37:66:59:B7 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 172.16.0.10
+Host is up, received arp-response (0.0058s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE SERVICE       REASON
+3389/tcp open  ms-wbt-server syn-ack ttl 128
+MAC Address: 94:C6:91:1B:33:A8 (EliteGroup Computer Systems)
+
+Nmap scan report for 172.16.0.22
+Host is up, received arp-response (-0.092s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 48:EA:63:2C:22:E3 (Zhejiang Uniview Technologies)
+
+Nmap scan report for 172.16.0.23
+Host is up, received arp-response (-0.064s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 14:07:08:1D:2C:48 (Private)
+
+Nmap scan report for 172.16.0.50
+Host is up, received arp-response (0.0034s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 00:1B:09:03:F2:C6 (Matrix Telecom Pvt.)
+
+Nmap scan report for 172.16.0.100
+Host is up, received arp-response (0.0040s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 00:0F:E0:3F:C4:2B (NComputing)
+
+Nmap scan report for 172.16.0.101
+Host is up, received arp-response (0.0043s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 00:0F:E0:3F:BB:C2 (NComputing)
+
+Nmap scan report for 172.16.0.102
+Host is up, received arp-response (-0.093s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 00:0F:E0:3F:BB:9A (NComputing)
+
+Nmap scan report for 172.16.0.103
+Host is up, received arp-response (0.0035s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 84:2B:2B:49:A5:2E (Dell)
+
+Nmap scan report for 172.16.0.104
+Host is up, received arp-response (0.0047s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: E8:26:89:C4:39:D8 (Unknown)
+
+Nmap scan report for 172.16.0.105
+Host is up, received arp-response (0.12s latency).
+Scanned at 2021-02-20 15:31:08 IST for 8s
+
+PORT     STATE    SERVICE       REASON
+3389/tcp filtered ms-wbt-server no-response
+MAC Address: 46:99:81:E6:5D:42 (Unknown)
+
+Nmap scan report for 172.16.0.107
+Host is up, received arp-response (0.010s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE    SERVICE       REASON
+3389/tcp filtered ms-wbt-server no-response
+MAC Address: 30:84:54:01:A5:3B (Guangdong Oppo Mobile Telecommunications)
+
+Nmap scan report for 172.16.0.108
+Host is up, received arp-response (0.026s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 3C:20:F6:CF:1B:82 (Unknown)
+
+Nmap scan report for 172.16.0.110
+Host is up, received arp-response (0.22s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: BC:6E:64:E4:67:C2 (Sony Mobile Communications AB)
+
+Nmap scan report for 172.16.0.113
+Host is up, received arp-response (0.093s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE    SERVICE       REASON
+3389/tcp filtered ms-wbt-server no-response
+MAC Address: C0:10:B1:04:82:5B (Unknown)
+
+Nmap scan report for 172.16.0.115
+Host is up, received arp-response (0.010s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE    SERVICE       REASON
+3389/tcp filtered ms-wbt-server no-response
+MAC Address: 78:02:F8:85:81:73 (Xiaomi Communications)
+
+Nmap scan report for 172.16.0.117
+Host is up, received arp-response (-0.055s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE SERVICE       REASON
+3389/tcp open  ms-wbt-server syn-ack ttl 128
+MAC Address: 80:A5:89:5C:D7:23 (AzureWave Technology)
+
+Nmap scan report for 172.16.0.134
+Host is up, received arp-response (-0.044s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: A4:D1:8C:5D:66:A0 (Apple)
+
+Nmap scan report for 172.16.0.139
+Host is up, received arp-response (0.010s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE    SERVICE       REASON
+3389/tcp filtered ms-wbt-server no-response
+MAC Address: 50:3E:AA:9A:BC:08 (Tp-link Technologies)
+
+Nmap scan report for 172.16.0.155
+Host is up, received arp-response (0.062s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 2A:F2:8B:C1:6E:03 (Unknown)
+
+Nmap scan report for 172.16.0.180
+Host is up, received arp-response (0.038s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: D8:12:65:34:7A:80 (Unknown)
+
+Nmap scan report for 172.16.0.194
+Host is up, received arp-response (0.0045s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE SERVICE       REASON
+3389/tcp open  ms-wbt-server syn-ack ttl 128
+MAC Address: 84:2B:2B:49:A5:2C (Dell)
+
+Nmap scan report for 172.16.0.250
+Host is up, received arp-response (0.0048s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: CC:7F:75:14:5B:56 (Unknown)
+
+Nmap scan report for 172.16.0.253
+Host is up, received arp-response (0.0029s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE SERVICE       REASON
+3389/tcp open  ms-wbt-server syn-ack ttl 64
+MAC Address: 74:27:EA:AA:58:AD (Elitegroup Computer Systems)
+
+Nmap scan report for 172.16.0.254
+Host is up, received arp-response (0.0039s latency).
+Scanned at 2021-02-20 15:31:08 IST for 7s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+MAC Address: 10:BF:48:8B:56:B3 (Asustek Computer)
+
+Nmap scan report for 172.16.0.71
+Host is up, received user-set (0.000060s latency).
+Scanned at 2021-02-20 15:31:16 IST for 0s
+
+PORT     STATE  SERVICE       REASON
+3389/tcp closed ms-wbt-server reset ttl 64
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Feb 20 15:31:16 2021 -- 256 IP addresses (28 hosts up) scanned in 8.44 seconds

@@ -1,0 +1,11 @@
+# Nmap 7.70 scan initiated Sun Feb 21 19:03:51 2021 as: nmap -Pn -vv -p3389 -oN o.txt -sS 172.16.0.194
+Nmap scan report for 172.16.0.194
+Host is up, received arp-response (0.00037s latency).
+Scanned at 2021-02-21 19:03:51 IST for 1s
+
+PORT     STATE SERVICE       REASON
+3389/tcp open  ms-wbt-server syn-ack ttl 128
+MAC Address: 84:2B:2B:49:A5:2C (Dell)
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sun Feb 21 19:03:52 2021 -- 1 IP address (1 host up) scanned in 0.63 seconds
